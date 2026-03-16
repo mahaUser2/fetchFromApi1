@@ -2,7 +2,7 @@
 // FÆLLES
 //
 
-// Vi skal anvende data herfra: https://randomuser.me/
+// Vi skal anvende data herfra: https://randomuser.me/ - HVIS randomuser.me er nede, anvend da: https://jsonplaceholder.typicode.com/users 
 
 // Læs dokumentation og find ud af hvordan man får en user (5 min eller indtil en har et svar)
 
@@ -16,7 +16,7 @@
 // I grupperne
 //
 
-// Prøv nu at anvende document.createElement(), .classlist.add(), .textContent og append() til at skabe en artikel med følgende struktur per user i results og append i .result:
+// Prøv nu at anvende document.createElement(), .classlist.add(), .textContent og append() til at skabe en artikel med følgende struktur per user i results og append i .users:
 {
   /* <article>
   <h4 class="title">NAVN</h4>
